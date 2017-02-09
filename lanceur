@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp ./ap.jar:. les7conquetes
